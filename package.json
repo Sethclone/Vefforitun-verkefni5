@@ -1,0 +1,17 @@
+{
+  "name": "verkefni5",
+  "version": "1.0.0",
+  "description": "verkefni5-vefforritun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Unnar",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.29.3",
+    "concurrently": "^8.2.2",
+    "sass": "^1.69.4",
+    "stylelint": "^15.11.0"
+  }
+}
